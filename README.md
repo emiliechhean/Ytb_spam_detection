@@ -10,4 +10,4 @@ The youtube videos and their distribution are as follows :
 - Eminem - Love the way you lie : 448 comments
 - Shakira - Waka Waka : 370 comments
 
-The aim of the projet is to detect spam comments.
+The aim of the project is to detect spam comments.
